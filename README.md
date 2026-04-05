@@ -33,8 +33,9 @@ The dashboard provides insights into impressions, clicks, conversions, revenue, 
 ![Dashboard](mar_cam_per_analysis.png)
 
 ## 📁 Files Included
-- `marketing_campaign_dashboard.pbix`  → Power BI dashboard file  
-- `marketing_campaign_analysis.csv` → Raw dataset  
+
+- [Download Power BI Dashboard](marketing_campaign_dashboard.pbix)
+- [Download Dataset](marketing_campaing_analysis.csv) 
 - `mar_cam_per_analysis.png` → Dashboard preview image  
 
 ## Final Decision
