@@ -17,11 +17,11 @@ The dashboard provides insights into impressions, clicks, conversions, revenue, 
 
 ## 📂 Data Preparation
 - Data Source: Excel file  
-- Data Cleaning: Performed using SQL  
+- Data Validation & Cleaning: Performed using Python(pandas)  
 - Key Steps:
-  - Removed duplicates  
-  - Handled missing values  
-  - Standardized data formats  
+  - Checked for missing values
+  - Checked for duplicate records
+  - Verified and Standardized data formats  
 
 ## 📊 Key Insights
 - High impressions but low conversions indicate a weak conversion funnel  
